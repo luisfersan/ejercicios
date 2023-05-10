@@ -1,1 +1,2 @@
 Archivo 2 de prueba
+Prueba para git diff
